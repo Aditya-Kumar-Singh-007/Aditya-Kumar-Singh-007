@@ -50,8 +50,8 @@ technical_background:
     "IoT Solutions Architect",
     "Open Source Contributor"
   ]
-currently_learning: ["Advanced React.js", "Node.js", "AI-driven Automation"]
-2024_goals: ["Master Full Stack Development", "Build IoT Projects", "Contribute to Open Source"]
+currently_learning: ["Data Science", "Advanced AI/ML", "Deep Learning"]
+2025_goals: ["Master Data Science", "Build AI Projects", "Learn Machine Learning Algorithms"]
 hobbies: ["Gaming", "Reading Tech Blogs", "Building Side Projects"]
 ```
 

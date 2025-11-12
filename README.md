@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Engineer;🌐+IoT+Solutions+Architect;💡+Innovation+Through+Code" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Engineer;🌐+IoT+Solutions+Architect;💡+Innovation+Through+Code" alt="Typing Animation" />
   </a>
 </div>
 
